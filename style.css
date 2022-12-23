@@ -1,0 +1,41 @@
+#waha{
+  background: linear-gradient(#878686,#878686);
+  width:1150px;
+  outline:2pxblack;
+  padding:10px;
+  margin:0 auto;;
+}
+
+#us {
+  float: left;
+  width: 150px;
+	background-color: silver;
+  padding:5px;
+  margin-bottom: 15px;
+}
+
+#text {
+  padding:5px;
+  background-color: silver;
+  margin-bottom: 15px;
+  width:780px;
+  margin-left: 165px;
+}
+
+body {
+	background-color: silver;
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-attachment: fixed;
+	font-family: sans-serif;
+}
+
+
+.form h3 {
+	margin: 3px 6px;
+	padding: 0;
+	text-align: center;
+	color: #ffffff;
+	font-size: 15px;
+	text-transform: uppercase;
+}
